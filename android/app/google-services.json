@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272328430080",
+    "project_id": "guestroombook-80cba",
+    "storage_bucket": "guestroombook-80cba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272328430080:android:06fb3a208a87a0bb713ee5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKs6yVZdIokXa8Om2peTPid9dFLzU6fkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
